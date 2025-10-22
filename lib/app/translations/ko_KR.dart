@@ -1,0 +1,18 @@
+final Map<String, String> koKR = {
+  "splash_title": "다크 및 라이트 모드 앱",
+  "login_account": "로그인 계정",
+  "welcome_back": "다시 오신 것을 환영합니다",
+  "login_to_continue": "앱을 계속 사용하려면 로그인하세요",
+  "email": "이메일",
+  "password": "비밀번호",
+  "dont_have_account": "계정이 없으신가요?",
+  "select_language": "언어 선택",
+  "select": "선택",
+  "settings": "설정",
+  "dark_mode": "다크 모드",
+  "light_mode": "라이트 모드",
+  "login": "로그인",
+  "register": "회원가입",
+  "hello": "안녕하세요",
+  "welcome": "우리 앱에 오신 것을 환영합니다",
+};

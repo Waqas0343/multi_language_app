@@ -1,0 +1,18 @@
+final Map<String, String> urPK = {
+  "splash_title": "ڈارک اور لائٹ موڈ ایپ",
+  "login_account": "لاگ اِن اکاؤنٹ",
+  "welcome_back": "دوبارہ خوش آمدید",
+  "login_to_continue": "ایپ استعمال جاری رکھنے کے لیے لاگ اِن کریں",
+  "email": "ای میل",
+  "password": "پاس ورڈ",
+  "dont_have_account": "کیا آپ کا اکاؤنٹ نہیں ہے؟",
+  "select_language": "زبان منتخب کریں",
+  "select": "منتخب کریں",
+  "settings": "ترتیبات",
+  "dark_mode": "ڈارک موڈ",
+  "light_mode": "لائٹ موڈ",
+  "login": "لاگ اِن",
+  "register": "رجسٹر کریں",
+  "hello": "سلام",
+  "welcome": "ہماری ایپ میں خوش آمدید",
+};

@@ -1,0 +1,18 @@
+final Map<String, String> itIT = {
+  "splash_title": "App Modalità Chiara e Scura",
+  "login_account": "Accedi all'account",
+  "welcome_back": "Bentornato",
+  "login_to_continue": "Accedi per continuare a utilizzare l'app",
+  "email": "Email",
+  "password": "Password",
+  "dont_have_account": "Non hai un account?",
+  "select_language": "Seleziona la lingua",
+  "select": "Seleziona",
+  "settings": "Impostazioni",
+  "dark_mode": "Modalità scura",
+  "light_mode": "Modalità chiara",
+  "login": "Accedi",
+  "register": "Registrati",
+  "hello": "Ciao",
+  "welcome": "Benvenuto nella nostra app",
+};

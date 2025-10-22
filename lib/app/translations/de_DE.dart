@@ -1,0 +1,16 @@
+final Map<String, String> deDE = {
+  "splash_title": "Dunkel- und Hellmodus App",
+  "login_account": "Konto anmelden",
+  "welcome_back": "Willkommen zurück",
+  "login_to_continue": "Melden Sie sich an, um die App weiterhin zu verwenden",
+  "email": "E-Mail",
+  "password": "Passwort",
+  "dont_have_account": "Sie haben kein Konto?",
+  "select_language": "Sprache auswählen",
+  "select": "Auswählen",
+  "settings": "Einstellungen",
+  "dark_mode": "Dunkelmodus",
+  "light_mode": "Hellmodus",
+  "login": "Anmelden",
+  "register": "Registrieren",
+};

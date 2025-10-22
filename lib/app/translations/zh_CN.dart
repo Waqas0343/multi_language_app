@@ -1,0 +1,18 @@
+final Map<String, String> zhCN = {
+  "splash_title": "深色和浅色模式应用程序",
+  "login_account": "登录账户",
+  "welcome_back": "欢迎回来",
+  "login_to_continue": "登录以继续使用该应用程序",
+  "email": "电子邮件",
+  "password": "密码",
+  "dont_have_account": "还没有账户？",
+  "select_language": "选择语言",
+  "select": "选择",
+  "settings": "设置",
+  "dark_mode": "深色模式",
+  "light_mode": "浅色模式",
+  "login": "登录",
+  "register": "注册",
+  "hello": "你好",
+  "welcome": "欢迎使用我们的应用程序",
+};

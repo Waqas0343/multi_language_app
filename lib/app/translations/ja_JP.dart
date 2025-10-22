@@ -1,0 +1,18 @@
+final Map<String, String> jaJP = {
+  "splash_title": "ダーク＆ライトモードアプリ",
+  "login_account": "ログインアカウント",
+  "welcome_back": "お帰りなさい",
+  "login_to_continue": "アプリを使い続けるにはログインしてください",
+  "email": "メールアドレス",
+  "password": "パスワード",
+  "dont_have_account": "アカウントをお持ちではありませんか？",
+  "select_language": "言語を選択",
+  "select": "選択する",
+  "settings": "設定",
+  "dark_mode": "ダークモード",
+  "light_mode": "ライトモード",
+  "login": "ログイン",
+  "register": "登録",
+  "hello": "こんにちは",
+  "welcome": "私たちのアプリへようこそ",
+};

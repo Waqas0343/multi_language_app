@@ -1,0 +1,16 @@
+final Map<String, String> arSA = {
+  "splash_title": "تطبيق التبديل بين الوضع الليلي والفاتح",
+  "login_account": "تسجيل الدخول إلى الحساب",
+  "welcome_back": "مرحبًا بعودتك",
+  "login_to_continue": "سجل الدخول للمتابعة في استخدام التطبيق",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "dont_have_account": "ليس لديك حساب؟",
+  "select_language": "اختر اللغة",
+  "select": "اختيار",
+  "settings": "الإعدادات",
+  "dark_mode": "الوضع الداكن",
+  "light_mode": "الوضع الفاتح",
+  "login": "تسجيل الدخول",
+  "register": "تسجيل",
+};

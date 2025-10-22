@@ -1,0 +1,18 @@
+final Map<String, String> esES = {
+  "splash_title": "Aplicación de modo oscuro y claro",
+  "login_account": "Iniciar sesión en la cuenta",
+  "welcome_back": "Bienvenido de nuevo",
+  "login_to_continue": "Inicia sesión para continuar usando la aplicación",
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "dont_have_account": "¿No tienes una cuenta?",
+  "select_language": "Seleccionar idioma",
+  "select": "Seleccionar",
+  "settings": "Configuraciones",
+  "dark_mode": "Modo oscuro",
+  "light_mode": "Modo claro",
+  "login": "Iniciar sesión",
+  "register": "Registrarse",
+  "hello": "Hola",
+  "welcome": "Bienvenido a nuestra aplicación",
+};

@@ -1,0 +1,24 @@
+final Map<String, String> enUS = {
+  "splash_title": "Dark and Light Switch App",
+  "login_account": "Login Account",
+  "welcome_back": "Welcome Back",
+  "login_to_continue": "Login to continue using the app",
+  "email": "Email",
+  "full_Name": "Full Name",
+  "password": "Password",
+  "dont_have_account": "Don't have an account?",
+  'select_language': 'Select Language',
+  'select': 'Select',
+  'settings': 'Settings',
+  'dark_mode': 'Dark Mode',
+  'light_mode': 'Light Mode',
+  'login': 'Login',
+  'register': 'Register',
+  'register_account': 'Create Account',
+  'join_us': 'Join US',
+  'already_account': 'Already have an Account? Login',
+
+
+
+
+};

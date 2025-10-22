@@ -1,0 +1,18 @@
+final Map<String, String> frFR = {
+  "splash_title": "Application Mode Sombre et Clair",
+  "login_account": "Connexion au compte",
+  "welcome_back": "Bon retour",
+  "login_to_continue": "Connectez-vous pour continuer à utiliser l'application",
+  "email": "E-mail",
+  "password": "Mot de passe",
+  "dont_have_account": "Vous n'avez pas de compte ?",
+  "select_language": "Sélectionner la langue",
+  "select": "Sélectionner",
+  "settings": "Paramètres",
+  "dark_mode": "Mode sombre",
+  "light_mode": "Mode clair",
+  "login": "Se connecter",
+  "register": "S'inscrire",
+  "hello": "Bonjour",
+  "welcome": "Bienvenue dans notre application",
+};

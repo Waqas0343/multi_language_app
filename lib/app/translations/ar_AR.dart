@@ -1,0 +1,15 @@
+final Map<String, String> arAR = {
+  'select_language': 'اختر اللغة',
+  "login_account": "تسجيل الدخول",
+  "welcome_back": "مرحبًا بعودتك",
+  "login_to_continue": "سجل الدخول للمتابعة في استخدام التطبيق",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "dont_have_account": "ليس لديك حساب؟",
+  'select': 'اختار',
+  'settings': 'الإعدادات',
+  'dark_mode': 'الوضع الداكن',
+  'light_mode': 'الوضع الفاتح',
+  'login': 'تسجيل الدخول',
+  'register': 'تسجيل',
+};
