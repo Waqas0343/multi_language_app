@@ -18,4 +18,5 @@ final Map<String, String> itIT = {
   "register_account": "Crea account",
   "join_us": "Unisciti a noi",
   "already_account": "Hai già un account? Accedi",
+  "full_Name": "Nome completo",
 };

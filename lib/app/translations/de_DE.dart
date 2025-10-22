@@ -16,4 +16,5 @@ final Map<String, String> deDE = {
   "register_account": "Ein Konto erstellen",
   "join_us": "Treten Sie uns bei",
   "already_account": "Haben Sie bereits ein Konto? Einloggen",
+  "full_Name": "Nom complet",
 };

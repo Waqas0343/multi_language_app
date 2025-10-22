@@ -15,7 +15,7 @@ class RegisterView extends GetView<RegisterController> {
       backgroundColor: isDark ? Colors.black : Colors.white,
       appBar: AppBar(
         title:  CustomText(
-          text: 'Register Account',
+          text: 'register_account'.tr,
           fontWeight: FontWeight.bold,
           fontSize: 20,
         ),
@@ -30,36 +30,36 @@ class RegisterView extends GetView<RegisterController> {
           mainAxisAlignment: MainAxisAlignment.start,
           children: [
             CustomText(
-              text:  'Join Us ',
+              text:  'join_us'.tr,
               fontSize: 26,
               fontWeight: FontWeight.bold,
             ),
             SizedBox(height: 8),
             CustomText(
-              text:   'Login to continue using the app',
+              text:   'login_to_continue'.tr,
               fontSize: 16,
               fontWeight: FontWeight.bold,
             ),
             SizedBox(height: 40),
-            CustomTextField(controller: controller.nameController, hintText: 'Full Name'),
+            CustomTextField(controller: controller.nameController, hintText: 'full_Name'.tr,),
              SizedBox(height: 16),
-            CustomTextField(controller: controller.emailController, hintText: 'Email'),
+            CustomTextField(controller: controller.emailController, hintText: 'email'.tr,),
              SizedBox(height: 16),
             CustomTextField(
               controller: controller.passwordController,
-              hintText: 'Password',
+              hintText: 'password'.tr,
               obscureText: true,
             ),
              SizedBox(height: 24),
             CustomButton(
-              label: 'Register',
+              label:  'register'.tr,
               onPressed: controller.register,
             ),
              SizedBox(height: 20),
             GestureDetector(
               onTap: () => Get.back(),
               child:  CustomText(
-                text: 'Already have an account? Login',
+                text:'already_account'.tr,
                 fontSize: 14,
                 fontWeight: FontWeight.w500,
               ),

@@ -15,4 +15,6 @@ final Map<String, String> arAR = {
   "register_account": "إنشاء حساب",
   "join_us": "انضم إلينا",
   "already_account": "هل لديك حساب بالفعل؟ تسجيل الدخول",
+  "full_Name": "الاسم الكامل",
+
 };

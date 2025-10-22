@@ -17,8 +17,4 @@ final Map<String, String> enUS = {
   'register_account': 'Create Account',
   'join_us': 'Join US',
   'already_account': 'Already have an Account? Login',
-
-
-
-
 };

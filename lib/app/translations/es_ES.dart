@@ -18,4 +18,5 @@ final Map<String, String> esES = {
   "register_account": "Crear cuenta",
   "join_us": "Únete a nosotros",
   "already_account": "¿Ya tienes una cuenta? Inicia sesión",
+  "full_Name": "Nombre completo",
 };

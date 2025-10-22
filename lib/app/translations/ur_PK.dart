@@ -18,4 +18,6 @@ final Map<String, String> urPK = {
   "register_account": "اکاؤنٹ بنائیں",
   "join_us": "ہمارے ساتھ شامل ہوں",
   "already_account": "پہلے سے اکاؤنٹ ہے؟ لاگ ان کریں",
+  "full_Name": "پورا نام",
+
 };

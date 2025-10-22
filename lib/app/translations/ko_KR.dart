@@ -18,4 +18,5 @@ final Map<String, String> koKR = {
   "register_account": "계정 생성",
   "join_us": "함께하세요",
   "already_account": "이미 계정이 있나요? 로그인",
+  "full_Name": "전체 이름",
 };

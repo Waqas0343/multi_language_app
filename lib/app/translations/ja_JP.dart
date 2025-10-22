@@ -18,4 +18,5 @@ final Map<String, String> jaJP = {
   "register_account": "アカウントを作成",
   "join_us": "参加してください",
   "already_account": "すでにアカウントをお持ちですか？ ログイン",
+  "full_Name": "フルネーム",
 };

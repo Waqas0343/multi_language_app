@@ -18,4 +18,6 @@ final Map<String, String> zhCN = {
   "register_account": "创建账户",
   "join_us": "加入我们",
   "already_account": "已有账户？登录",
+  "full_Name": "全名",
+
 };
