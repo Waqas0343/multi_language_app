@@ -26,7 +26,6 @@ class LanguageView extends GetView<LanguageController> {
         child: Padding(
           padding:  EdgeInsets.all(16),
           child: Column(
-
             children: [
               Expanded(
                 child: Obx(()=> ListView.builder(
