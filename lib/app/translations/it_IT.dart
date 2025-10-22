@@ -15,4 +15,7 @@ final Map<String, String> itIT = {
   "register": "Registrati",
   "hello": "Ciao",
   "welcome": "Benvenuto nella nostra app",
+  "register_account": "Crea account",
+  "join_us": "Unisciti a noi",
+  "already_account": "Hai già un account? Accedi",
 };

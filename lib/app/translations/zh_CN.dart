@@ -15,4 +15,7 @@ final Map<String, String> zhCN = {
   "register": "注册",
   "hello": "你好",
   "welcome": "欢迎使用我们的应用程序",
+  "register_account": "创建账户",
+  "join_us": "加入我们",
+  "already_account": "已有账户？登录",
 };

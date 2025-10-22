@@ -15,4 +15,7 @@ final Map<String, String> koKR = {
   "register": "회원가입",
   "hello": "안녕하세요",
   "welcome": "우리 앱에 오신 것을 환영합니다",
+  "register_account": "계정 생성",
+  "join_us": "함께하세요",
+  "already_account": "이미 계정이 있나요? 로그인",
 };

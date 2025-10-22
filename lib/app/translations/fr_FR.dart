@@ -15,4 +15,7 @@ final Map<String, String> frFR = {
   "register": "S'inscrire",
   "hello": "Bonjour",
   "welcome": "Bienvenue dans notre application",
+  "register_account": "Créer un compte",
+  "join_us": "Rejoignez-nous",
+  "already_account": "Vous avez déjà un compte ? Connexion",
 };

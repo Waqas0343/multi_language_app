@@ -15,4 +15,7 @@ final Map<String, String> urPK = {
   "register": "رجسٹر کریں",
   "hello": "سلام",
   "welcome": "ہماری ایپ میں خوش آمدید",
+  "register_account": "اکاؤنٹ بنائیں",
+  "join_us": "ہمارے ساتھ شامل ہوں",
+  "already_account": "پہلے سے اکاؤنٹ ہے؟ لاگ ان کریں",
 };

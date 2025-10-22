@@ -12,4 +12,7 @@ final Map<String, String> arAR = {
   'light_mode': 'الوضع الفاتح',
   'login': 'تسجيل الدخول',
   'register': 'تسجيل',
+  "register_account": "إنشاء حساب",
+  "join_us": "انضم إلينا",
+  "already_account": "هل لديك حساب بالفعل؟ تسجيل الدخول",
 };
