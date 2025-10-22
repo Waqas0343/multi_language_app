@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import '../../routes/app_routes.dart';
 import '../../widgets/app_text.dart';
 import 'language_controller.dart';
 
@@ -80,7 +81,7 @@ class LanguageView extends GetView<LanguageController> {
                       borderRadius: BorderRadius.circular(30),
                     ),
                   ),
-                  onPressed: () => Get.back(),
+                  onPressed: () => Get.toNamed(Routes.home),
                   child: Text(
                     "select".tr,
                     style:  TextStyle(
