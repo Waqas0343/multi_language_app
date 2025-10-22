@@ -1,4 +1,5 @@
 import 'package:get/get.dart';
+import 'ar_AR.dart';
 import 'en_US.dart';
 import 'es_ES.dart';
 import 'fr_FR.dart';
@@ -23,5 +24,6 @@ class AppTranslations extends Translations {
     'ja_JP': jaJP,
     'ko_KR': koKR,
     'ur_PK': urPK,
+    'ar_AR': arAR,
   };
 }
